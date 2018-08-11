@@ -36,10 +36,7 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Project Files\README.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Project Files\" />
+    <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
